@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ReduxDemo"
+    },
+    {
+      "name": "Index_btn_name",
+      "value": "进入详情页"
+    },
+    {
+      "name": "Details_btn_name",
+      "value": "返回首页"
+    },
+    {
+      "name": "Increment_btn_name",
+      "value": "increment"
+    },
+    {
+      "name": "decrement_btn_name",
+      "value": "decrement"
+    }
+  ]
+}
