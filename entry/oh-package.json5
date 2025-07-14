@@ -6,7 +6,8 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "redux_store": "file:../common/redux_store"
+    "redux_store": "file:../common/redux_store",
+    "local_lodash": "file:../common/local_lodash"
   }
 }
 

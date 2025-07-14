@@ -41,6 +41,10 @@
     {
       "name": "redux_store",
       "srcPath": "./common/redux_store",
+    },
+    {
+      "name": "local_lodash",
+      "srcPath": "./common/local_lodash",
     }
   ]
 }

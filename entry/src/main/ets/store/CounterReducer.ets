@@ -8,6 +8,9 @@ export const counterReducer: Reducer<CounterModel> = (state: CounterModel, actio
       state.count++
       break
     case CounterActions.DECREMENT.type:
+      if (state.count <= 0) {
+        return null
+      }
       state.count--
       break
   }
