@@ -1,0 +1,10 @@
+{
+  "name": "local_lodash",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "src/main/ets/lodash.js",
+  "types": "src/main/types/index.d.ts",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
